@@ -56,7 +56,7 @@ const Select = ({ label, value, onChange, options, multiple, ...props }) => {
         if (multiple) {
             onChange(selectedOptions);
         } else {
-            onChange(selectedOptions); // Ensure single select triggers onChange correctly
+            onChange(selectedOptions); 
         }
     }, [selectedOptions, onChange]);
 
