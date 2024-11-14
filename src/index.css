@@ -9,7 +9,13 @@ body{
 h1{
   text-align: center;
 }
-/* Add this to your styles or global CSS file */
+
+input{
+  width: 100%;
+}
+
+
+
 .select-container {
   position: relative;
  
