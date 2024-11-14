@@ -18,7 +18,7 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/devshakilh/customselect
 
 # Navigate to the project directory
 cd custom-select-component
